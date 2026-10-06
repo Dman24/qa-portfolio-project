@@ -1,6 +1,6 @@
 # SQL Testing Portfolio
 
-This repository contains my SQL testing practice using the MySQL Sakila Sample Database.
+This folder contains my SQL testing practice using the MySQL Sakila Sample Database.
 
 ## Skills Demonstrated
 - SQL Queries
@@ -14,6 +14,6 @@ This repository contains my SQL testing practice using the MySQL Sakila Sample D
 
 ## Repository Structure
 
-- sql/ - SQL query files
+- queries/ - SQL query files
 - screenshots/ - Query result screenshots
-- docs/ - Documentation
+- sheets/ - Documentation
