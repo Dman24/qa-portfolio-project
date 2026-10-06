@@ -16,5 +16,5 @@ Browser: Google Chrome
 Operating System: Windows 10
 
 ## Modules Tested
-## 1. User Authentication
+### 1. User Authentication
 
