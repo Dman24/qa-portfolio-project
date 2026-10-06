@@ -6,9 +6,13 @@ The testing focused on functional testing of the User Authentication and E-Comme
 
 ## Website Under Test
 Website: QA Brains Practice Site
+
 URL: https://practice.qabrains.com/
+
 Testing Type: Manual Testing
+
 Browser: Google Chrome
+
 Operating System: Windows 10
 
 ## Modules Tested
