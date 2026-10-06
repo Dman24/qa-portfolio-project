@@ -57,7 +57,7 @@ The following features were tested:
 - Google Chrome
 - Google Sheets
 - Github
-- Jira (Beginner)
+
 
 
 
