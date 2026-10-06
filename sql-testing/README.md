@@ -1,6 +1,11 @@
 # SQL Testing Portfolio
 
-This folder contains my SQL testing practice using the MySQL Sakila Sample Database.
+This project contains my SQL testing practice using the MySQL Sakila Sample Database.
+
+## Test Documentation
+
+Test Cases are documented in Google Sheets
+[View SQL Test Cases](https://docs.google.com/spreadsheets/d/1OXM0cc7aQVz9G2pcdsIzDSspm-pSjlXe2VYEasqcR6U/edit?gid=0#gid=0)
 
 ## Skills Demonstrated
 - SQL Queries
