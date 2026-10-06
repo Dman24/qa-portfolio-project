@@ -50,7 +50,7 @@ The following features were tested:
 
 Detailed test cases and bug reports are documented in Google Sheets.
 
-[View Manual Testing Test Cases and Bug Reports] 
+[View Manual Testing Test Cases and Bug Reports](https://docs.google.com/spreadsheets/d/1ZZ1g7ekU9XLZOIMAN60sn5Fg5anLg80W9YyB0om29s4/edit?gid=0#gid=0)
 
 
 
