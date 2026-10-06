@@ -18,3 +18,40 @@ Operating System: Windows 10
 ## Modules Tested
 ### 1. User Authentication
 
+The following featured were tested:
+
+- Login
+- Registration
+- Fogot Password
+
+Testing included positive & negative scenarios, input validation and authentication behavior
+
+### 2. E-Commerce Site
+
+The following features were tested:
+
+- Product Browsing
+- Product Sorting
+- Add to Cart
+- Update Cart Quantity
+- Remove from Cart
+- Favorites
+- Checkout
+- Logout and Session behavior
+
+### Testing Activities
+- Test Case design and execution
+- Functional testing
+- Positive and Negative testing
+- Input Validation
+- Bug identification and reporting
+
+### Test Case Documentation
+
+Detailed test cases and bug reports are documented in Google Sheets.
+
+[View Manual Testing Test Cases and Bug Reports] 
+
+
+
+
