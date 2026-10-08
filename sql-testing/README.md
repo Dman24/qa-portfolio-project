@@ -16,6 +16,7 @@ Test Cases are documented in Google Sheets
 - Database Testing
 
 ## Database Used:
+- MySQL
 - MySQL Sakila Sample Database
 
 ## Repository Structure
