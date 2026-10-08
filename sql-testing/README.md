@@ -23,3 +23,8 @@ Test Cases are documented in Google Sheets
 - queries/ - SQL query files
 - screenshots/ - Query result screenshots
 - sheets/ - Documentation
+
+### Tools Used
+- Google Sheets
+- GitHub
+- MySQL Workbench
