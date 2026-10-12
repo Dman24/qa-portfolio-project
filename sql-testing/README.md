@@ -19,7 +19,7 @@ Test Cases are documented in Google Sheets
 - MySQL
 - MySQL Sakila Sample Database
 
-### Tools Used
+## Tools Used
 - Google Sheets
 - GitHub
 - MySQL Workbench
