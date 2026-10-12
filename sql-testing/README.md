@@ -19,13 +19,14 @@ Test Cases are documented in Google Sheets
 - MySQL
 - MySQL Sakila Sample Database
 
+### Tools Used
+- Google Sheets
+- GitHub
+- MySQL Workbench
+
 ## Repository Structure
 
 - queries/ - SQL query files
 - screenshots/ - Query result screenshots
 - sheets/ - Documentation
 
-### Tools Used
-- Google Sheets
-- GitHub
-- MySQL Workbench
