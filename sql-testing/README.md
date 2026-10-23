@@ -6,7 +6,7 @@ This project contains my SQL testing practice using the MySQL Sakila Sample Data
 
 Test Cases are documented in Google Sheets
 
-[View SQL Test Cases](https://docs.google.com/spreadsheets/d/1OXM0cc7aQVz9G2pcdsIzDSspm-pSjlXe2VYEasqcR6U/edit?gid=0#gid=0)
+[View SQL Test Cases](https://docs.google.com/spreadsheets/d/1OXM0cc7aQVz9G2pcdsIzDSspm-pSjlXe2VYEasqcR6U/edit?usp=drive_link)
 
 ## Skills Demonstrated
 - SQL Queries
