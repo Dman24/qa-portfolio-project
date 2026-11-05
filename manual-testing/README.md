@@ -24,7 +24,7 @@ Detailed test cases and bug reports are documented in Google Sheets.
 ## Tools Used
 - Google Chrome
 - Google Sheets
-- Github
+- GitHub
 
 ## Modules Tested
 
