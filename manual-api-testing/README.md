@@ -22,4 +22,7 @@ Detailed test cases and test results are documented in Google Sheets.
 The following HTTP methods and functionalities were tested:
 
 - GET - Retrieve all bookings and specific booking details
-- POST -
+- POST - Create new bookings and generate authentication tokens
+- PUT - Update existing booking details
+- PATCH - Partially update booking details
+- DELTE - Delete existing bookings
