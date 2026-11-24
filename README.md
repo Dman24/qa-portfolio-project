@@ -1,4 +1,4 @@
-### QA Testing Portfolio
+# QA Testing Portfolio
 
 ## About this Portfolio
 
